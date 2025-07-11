@@ -1,0 +1,27 @@
+Maple Mono, smooth your coding flow
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+all
+
+~!@#$%^&* {} [] () I1l O0o
+
+!== \\ <= #{ -> ~@ |> 0x12
+
+=~ |= >>== <==
+
+|=>==<==>=|======|===|===>
+
+<---|--|--------|-<->--<-|
+
+[INFO] todo)) fixme))
+
+Input your text here.
+
+中文测试：“‘’” …… —— ，。
+
+Nerd fonts:
+󰘅 󰘑
+󰈛 󰈬 󰈧 
+󰍔 󰌠 󰴭 󱘗 󰬷 󰌞 󰛦
